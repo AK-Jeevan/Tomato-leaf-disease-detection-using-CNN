@@ -21,14 +21,23 @@ This project uses a Convolutional Neural Network (CNN) to classify tomato leaf i
   - Tomato Healthy
 
 - **Structure**:
+- 
 Tomato_Leaf_Dataset/
+
 ├── train/
+
 │ ├── Tomato___Bacterial_spot/
+
 │ ├── Tomato___Early_blight/
+
 │ └── ...
+
 └── val/
+
 ├── Tomato___Bacterial_spot/
+
 ├── Tomato___Early_blight/
+
 └── ...
 
 
